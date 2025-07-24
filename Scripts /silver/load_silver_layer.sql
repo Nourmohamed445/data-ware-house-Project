@@ -6,7 +6,7 @@ BEGIN
 		DECLARE @START_LOADING_TIME DATETIME , @END_LOADING_TIME DATETIME -- VARIABLE FOR THE WHOLE BATCH
 
 		PRINT('=============================================');
-		PRINT('LOADING OUR DATA TO THE BONZE LAYER');
+		PRINT('LOADING OUR DATA TO THE SILVER LAYER');
 		PRINT('=============================================');
 
 		PRINT('=-------------------------------------------=');
